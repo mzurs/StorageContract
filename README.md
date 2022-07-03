@@ -1,1 +1,1 @@
-<!-- This is  Storage Contract-->
+//This is  Storage Contract
